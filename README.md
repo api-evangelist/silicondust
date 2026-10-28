@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SiliconDust (HDHomeRun) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://silicondust.com/
+SiliconDust, the maker of HDHomeRun devices, provides networked TV tuners that enable users to stream over‑the‑air broadcast television to multiple screens and devices in their home. The company offers a range of products such as the HDHomeRun FLEX, FLEX DUO, FLEX QUATRO and FLEX 4K, supporting both ATSC 1.0 and ATSC 3.0 (NextGen TV) broadcasts. Customers can watch live TV, record shows to a USB drive, and access a free companion app for iOS, Android, Roku, Apple TV, Xbox and other platforms. SiliconDust also supplies commercial and MDU solutions for multi‑dwelling units, broadcasters and government education sectors.
+
+**Areas:** Company · Hardware · Streaming · TV · Consumer Electronics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://silicondust.com/)
+- [Documentation](https://www.silicondust.com/support/downloads.html)
+- [Support](https://www.silicondust.com/contact-support.html)
+- [Terms of service](https://www.silicondust.com/terms-and-conditions.html)
+- [Privacy policy](https://www.silicondust.com/privacy-information.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/silicondust/](https://apis.io/providers/silicondust/).
